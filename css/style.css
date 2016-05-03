@@ -83,7 +83,7 @@ p{
 
 }
 
-span{
+.cursor{
 	color: #7FC9C2;
 	animation: blink 1s infinite;
 
@@ -114,15 +114,15 @@ span{
 /* ---------------------- */
 
 .container
-{ 
-	width:80%; 
-	margin:0 auto; 
+{
+	width:80%;
+	margin:0 auto;
 	text-align:center;
 	background-color: grey;
 }
 
 .container span
-{ 
-	width:100%; 
-	margin:0 4%;  
+{
+	width:100%;
+	margin:0 4%;
 }
