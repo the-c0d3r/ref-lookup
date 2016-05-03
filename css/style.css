@@ -60,7 +60,7 @@ h2, h3, h4, h5, h6, a, blockquote {
 	height: 86px;
 	background-color: #262626 ;
 	border-bottom: solid;
-	border-color: #7FC9C2;
+	border-color: #525252;
 
 }
 
@@ -72,7 +72,7 @@ h2, h3, h4, h5, h6, a, blockquote {
 }
 
 p{
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Oswald', sans-serif;
 	font-size: 50px;
 	text-align: center;
 	width: 100%;
@@ -84,7 +84,7 @@ p{
 }
 
 .cursor{
-	color: #7FC9C2;
+	color: #CEC9C9;
 	animation: blink 1s infinite;
 
 }
@@ -115,10 +115,11 @@ p{
 
 .container
 {
-	width:80%;
+	width:50%;
+	height:80%;
 	margin:0 auto;
 	text-align:center;
-	background-color: grey;
+	background-color: #36384C;
 }
 
 .container span
